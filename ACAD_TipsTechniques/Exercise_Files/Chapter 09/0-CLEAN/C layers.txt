@@ -1,0 +1,9 @@
+    Layer name        State          Color         Linetype     Lineweight
+------------------ ----------- ------------------ ------------ ------------
+"CASEWORK"         on       -P   4 (cyan)         "CONTINUOUS"  0.180 mm.
+"CHAIRS"           on       -P   4 (cyan)         "CONTINUOUS"  0.180 mm.
+"Clipping Boundary" on          221                "DASHDOT2"  0.130 mm.
+"COLUMNS"          on       -P   8                "CONTINUOUS"  0.180 mm.
+"CORE"             on       -P   8                "CONTINUOUS"  0.180 mm.
+"CPU"              on       -P   6 (magenta)      "CONTINUOUS"  0.180 mm.
+"CUBICLE PANELS"   on       -P   6 (magenta)      "CONTINUOUS"  0.180 mm.

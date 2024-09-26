@@ -1,0 +1,87 @@
+*GROUNDLINE3,GroundLine3
+A,.000007,[GROUND3,XYZ.shx,s=1],-.66
+
+*BREAKLINE,BREAKLINE
+A,1,[BREAK,XYZ.shx,s=1],-.12,1
+
+*TRUNK_PLAN,trunk plan arrow left
+A,1,-.1,.8,-.1
+
+*XSECTION,xsection grid line
+A,0,-.1
+
+*Control_of_Access,Control of Access --------|--|--|--------
+A,2,[COA,XYZ.shx,s=.5],-.5
+
+*Property_Line,
+A,2,-.1,.2,-.1
+
+*Limits_of_Construction,Limits of Construction
+A,.1,-.1
+
+*Lot_Line,Lot Line
+A,.3,-.1
+
+*ROW_Line,Right of Way
+A,2,-.1,.25,-.1,.25,-.1
+
+*ROW_COA,Right of Way and Control of Access --------|--|--|--------
+A,2,-.05,[ROW_COA,XYZ.SHX,s=.5],-.75
+
+*Section_Line,Section Line
+A,1.2,-.2
+
+*Guardrail,Guardrail ---O------O------O---
+A,6.151556,[POST,XYZ.shx,s=1],18.454669
+
+*Swamp,Swamp Line ---\/---\/---\/---\/---
+A,.2,-.2,[SWAMP,XYZ.shx,s=1],-.2
+
+*Marsh,Marsh Line ---\|/---\|/---\|/---\|/---
+A,.2,-.2,[MARSH,XYZ.shx,s=1],-.2
+
+*Culvert,Pipe Culvert  =======================
+A,0,[CULVERT,XYZ.shx,s=1],-.2394
+
+*Levee,Levee Top ---|---|---|---|---|---
+A,.000002,[LEVEE,XYZ.shx,s=1],-.1968
+
+*Fence,Fence Line ____x____x____x____x____
+A,.3281,-.05905,[FENCE,XYZ.shx,s=1],-.05905,.3281
+
+*Gate,Gate o-----o----o----o----o
+A,0,-.039369,[GATE,XYZ.shx,y=-.000107,x=-.039369,s=1],1.9237
+
+*Cable-U,Underground Cable TV --TV----TV----TV--
+A,.1312,-.0656,.1312,-.017448,["TV",Standard,y=-.05,s=.1],-.179352,.1312,-.0656,.1312,-.0656
+
+*Cable-A,Aboveground Cable TV __TV____TV____TV__
+A,.3281,-.017448,["TV",Standard,y=-.05,s=.1],-.179352,.3607
+
+*Power-U,Underground Power Line --P----P----P--
+A,.1312,-.0656,.1312,-.046019,["P",Standard,y=-.05,s=.1],-.150781,.1312,-.0656,.1312,-.0656
+
+*Power-A,Aboveground Power Line __P____P____P__
+A,.328,-.046019,["P",Standard,y=-.05,s=.1],-.150781,.3608
+
+*Gas-U,Underground Gas Line --G----G----G--
+A,.1312,-.0656,.1312,-.046019,["G",Standard,y=-.05,s=.1],-.150781,.1312,-.0656,.1312,-.0656
+
+*Gas-A,Aboveground Gas Line __G____G____G__
+A,.328,-.046019,["G",Standard,y=-.05,s=.1],-.150781,.3608
+
+*RR,Railroad Track
+A,.000002,[TRACKS,XYZ.SHX,s=1],-.1575
+
+*Tele-U,Underground Telephone Line --T----T----T--
+A,.1312,-.0656,.1312,-.046019,["T",Standard,y=-.05,s=.1],-.150781,.1312,-.0656,.1312,-.0656
+
+*Tele-A,Aboveground Telephone Line __T____T____T__
+A,.328,-.046019,["T",Standard,y=-.05,s=.1],-.150781,.3608
+
+*Water-U,Underground Water Line --W----W----W--
+A,.1312,-.0656,.1312,-.046019,["W",Standard,y=-.05,s=.1],-.150781,.1312,-.0656,.1312,-.0656
+
+*Water-A,Aboveground Water Line __W____W____W__,
+A,.328,-.046019,["W",Standard,y=-.05,s=.1],-.150781,.3608
+
