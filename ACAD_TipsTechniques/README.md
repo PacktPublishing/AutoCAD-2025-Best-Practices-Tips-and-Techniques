@@ -5,8 +5,8 @@ Welcome to the exercise files repository for **AutoCAD 2025 Best Practices, Tips
 ## Structure
 
 - **Exercise_Files/**: This directory contains subfolders for each chapter in the book. Inside each chapter folder, you'll find the specific files referenced in the book's exercises.
-  - **Chapter_1/**: Files for exercises in Chapter 1.
-  - **Chapter_2/**: Files for exercises in Chapter 2.
+  - **Chapter 01/**: Files for exercises in Chapter 1.
+  - **Chapter 02/**: Files for exercises in Chapter 2.
   - ...
   - **Chapter_N/**: Files for exercises in the final chapter.
 
