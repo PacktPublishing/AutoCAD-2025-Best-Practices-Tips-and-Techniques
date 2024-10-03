@@ -13,8 +13,9 @@ Welcome to the exercise files repository for **AutoCAD 2025 Best Practices, Tips
 ## How to Use
 
 1. **Read the Book**: Begin by reading the chapter in the book to understand the concepts and best practices being introduced.
-2. **Access the Exercise Files**: Navigate to the corresponding chapter folder within the `Exercise_Files/` directory. Each chapter contains the files mentioned in the exercises.
-3. **Open in AutoCAD**: Use AutoCAD 2025 to open the files and follow the step-by-step instructions outlined in the book to complete the exercises.
+2. **Install AutoCAD Profile Resources**: Install the AutoCAD profile resources as described in Chapter 1 to ensure your exercise files work seamlessly.
+3. **Access the Exercise Files**: Navigate to the corresponding chapter folder within the `Exercise_Files/` directory. Each chapter contains the files mentioned in the exercises.
+4. **Open in AutoCAD**: Use AutoCAD 2025 to open the files and follow the step-by-step instructions outlined in the book to complete the exercises.
 
 These exercise files are intended to give you practical experience with the features and techniques covered in the book, enhancing your understanding of AutoCAD 2025.
 
